@@ -200,6 +200,8 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225814/index.m3u8
 http://39.135.140.226:6410/PLTV/88888888/224/3221225515/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,中央新影老故事 SD 2.5M
 http://39.135.140.226:6410/PLTV/88888888/224/3221225516/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,中央新影老故事 SD 2.5M
+http://39.135.140.226:6410/PLTV/88888888/224/3221225517/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,中国教育1台 SD 2M
 http://39.135.138.59:18890/PLTV/88888910/224/3221225865/index.m3u8
 #EXTINF:-1 ,中国教育1台 SD 2.5M
@@ -787,3 +789,267 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225788/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225789/index.m3u8
 #EXTINF:-1 ,已下线 SD 1.5M
 http://39.135.138.59:18890/PLTV/88888910/224/3221225915/index.m3u8
+
+#Add Fujian
+#EXTINF:-1 ,CCTV2 FHD 4M
+http://112.50.243.8/PLTV/88888888/224/3221225800/1.m3u8
+#EXTINF:-1 ,CCTV4 FHD 2.5M
+http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
+#EXTINF:-1 ,CCTV7 FHD 4M
+http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
+#EXTINF:-1 ,CCTV10 FHD 3.5M 5.1
+http://112.50.243.8/PLTV/88888888/224/3221225814/1.m3u8
+#EXTINF:-1 ,CCTV11 FHD 3.5M 5.1
+http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
+#EXTINF:-1 ,CCTV12 FHD 3.5M 5.1
+http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
+#EXTINF:-1 ,CCTV13 FHD 4M
+http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
+#EXTINF:-1 ,CCTV15 FHD 3.5M 5.1
+http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1 ,CCTV14 FHD 3.5M 5.1
+http://112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8
+#EXTINF:-1 ,CCTV9 FHD 3.5M 5.1
+http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+#EXTINF:-1 ,CCTV5+ FHD 4M
+http://112.50.243.8/PLTV/88888888/224/3221225821/1.m3u8
+#EXTINF:-1 ,CCTV1 FHD 4M
+http://112.50.243.8/PLTV/88888888/224/3221225829/1.m3u8
+#EXTINF:-1 ,凤凰中文 HD 10M
+http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1 ,凤凰资讯 HD 10M
+http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1 ,CCTV1 FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
+#EXTINF:-1 ,CCTV2 FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
+#EXTINF:-1 ,CCTV7 FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
+#EXTINF:-1 ,CCTV9 FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8
+#EXTINF:-1 ,CCTV10 FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221225931/1.m3u8
+#EXTINF:-1 ,CCTV12 FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
+#EXTINF:-1 ,CCTV14 FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8
+#EXTINF:-1 ,CCTV5+ FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221225939/1.m3u8
+#EXTINF:-1 ,上海MAX急速汽车 FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
+#EXTINF:-1 ,上海动漫秀场 FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
+#EXTINF:-1 ,上海法制天地 SD 2.5M
+http://112.50.243.8/PLTV/88888888/224/3221226143/1.m3u8
+#EXTINF:-1 ,未知 FHD 4M
+http://112.50.243.8/PLTV/88888888/224/3221226631/1.m3u8
+#EXTINF:-1 ,未知2台 FHD 4M
+http://112.50.243.8/PLTV/88888888/224/3221226635/1.m3u8
+#EXTINF:-1 ,未知 FHD 4M
+http://112.50.243.8/PLTV/88888888/224/3221226649/1.m3u8
+#EXTINF:-1 ,未知电视剧 FHD 4M
+http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
+#EXTINF:-1 ,未知电视剧 FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+#EXTINF:-1 ,未知电影 FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
+#EXTINF:-1 ,未知 FHD 4M
+http://112.50.243.8/PLTV/88888888/224/3221226715/1.m3u8
+#EXTINF:-1 ,上海欢笑剧场 FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
+#EXTINF:-1 ,未知动画 FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
+#EXTINF:-1 ,未知动画 FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
+#EXTINF:-1 ,未知动画 FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
+#EXTINF:-1 ,未知动画 FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
+#EXTINF:-1 ,未知电视剧 FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
+#EXTINF:-1 ,福建厦门3 FHD 4M
+http://112.50.243.8/PLTV/88888888/224/3221226760/1.m3u8
+#EXTINF:-1 ,未知 FHD 4M
+http://112.50.243.8/PLTV/88888888/224/3221226764/1.m3u8
+#EXTINF:-1 ,福建厦门2 FHD 4M
+http://112.50.243.8/PLTV/88888888/224/3221226777/1.m3u8
+#EXTINF:-1 ,福建厦门卫视 FHD 4M
+http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
+#EXTINF:-1 ,CCTV2 FHD 4M
+http://112.50.243.8/PLTV/88888888/224/3221226795/1.m3u8
+#EXTINF:-1 ,CCTV7 FHD 10M
+http://112.50.243.8/PLTV/88888888/224/3221226803/1.m3u8
+#EXTINF:-1 ,福建厦门1 FHD 4M
+http://112.50.243.8/PLTV/88888888/224/3221226814/1.m3u8
+#EXTINF:-1 ,纯享4K UHD 20M
+http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+#EXTINF:-1 ,湖南先锋乒羽 SD 2.5M
+http://112.50.243.8/PLTV/88888888/224/3221226851/1.m3u8
+#EXTINF:-1 ,湖南茶频道 SD 2.5M
+http://112.50.243.8/PLTV/88888888/224/3221226859/1.m3u8
+#EXTINF:-1 ,未知 UHD 20M
+http://112.50.243.8/PLTV/88888888/224/3221226887/1.m3u8
+#EXTINF:-1 ,CCTV1 FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221226908/1.m3u8
+#EXTINF:-1 ,上海游戏风云 FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221226912/1.m3u8
+#EXTINF:-1 ,湖南金鹰纪实 FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221226937/1.m3u8
+#EXTINF:-1 ,湖南快乐垂钓 FHD 4.5M
+http://112.50.243.8/PLTV/88888888/224/3221226940/1.m3u8
+#EXTINF:-1 百事通4K UHD 20M
+http://112.50.243.8/PLTV/88888888/224/3221226952/1.m3u8
+#EXTINF:-1 ,CCTV17 FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
+#EXTINF:-1 ,CCTV17 FHD 4M
+http://112.50.243.8/PLTV/88888888/224/3221226990/1.m3u8
+#EXTINF:-1 ,CCTV7 FHD 4.5M 5.1
+http://112.50.243.8/PLTV/88888888/224/3221226998/1.m3u8
+#EXTINF:-1 ,海南三沙卫视 SD 2.5M
+http://112.50.243.8/PLTV/88888888/224/3221227002/1.m3u8
+#EXTINF:-1 ,CCTV1 FHD 4M
+http://112.50.243.8/PLTV/88888888/224/3221227014/1.m3u8
+#EXTINF:-1 ,湖南金鹰卡通 FHD 8M
+http://112.50.243.8/PLTV/88888888/224/3221227018/1.m3u8
+#EXTINF:-1 ,中国教育4台 SD 4M
+http://112.50.243.8/PLTV/88888888/224/3221227050/1.m3u8
+
+#Add Shanghai
+#EXTINF:-1 ,中国天气
+http://keonline.shanghai.liveplay.qq.com/live/program/live/zgqx/1300000/mnf.m3u8
+#EXTINF:-1 ,上海都市
+http://keonline.shanghai.liveplay.qq.com/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海全纪实
+http://keonline.shanghai.liveplay.qq.com/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海纪实人文
+http://keonline.shanghai.liveplay.qq.com/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海游戏风云
+http://keonline.shanghai.liveplay.qq.com/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海哈哈炫动
+http://keonline.shanghai.liveplay.qq.com/live/program/live/hhxdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海动漫秀场
+http://keonline.shanghai.liveplay.qq.com/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海欢笑剧场
+http://keonline.shanghai.liveplay.qq.com/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海CITY都市剧场
+http://keonline.shanghai.liveplay.qq.com/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海东方影视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海新闻综合
+http://keonline.shanghai.liveplay.qq.com/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海ICS
+http://keonline.shanghai.liveplay.qq.com/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海五星体育
+http://keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 ,上海MAX极速汽车
+http://keonline.shanghai.liveplay.qq.com/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海魅力足球
+http://keonline.shanghai.liveplay.qq.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海劲爆体育
+http://keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海新视觉
+http://keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海第一财经
+http://keonline.shanghai.liveplay.qq.com/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海东方财经浦东
+http://keonline.shanghai.liveplay.qq.com/live/program/live/dfcj/1300000/mnf.m3u8
+#EXTINF:-1 ,上海法治天地
+http://keonline.shanghai.liveplay.qq.com/live/program/live/fztd/1300000/mnf.m3u8
+#EXTINF:-1 ,上海金色频道
+http://keonline.shanghai.liveplay.qq.com/live/program/live/jingsepd/1300000/mnf.m3u8
+#EXTINF:-1 ,上海七彩戏剧
+http://keonline.shanghai.liveplay.qq.com/live/program/live/qcxj/1300000/mnf.m3u8
+
+#Add Beijing
+#EXTINF:-1 ,凤凰中文 HD 10M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
+#EXTINF:-1 ,凤凰中文 HD 10M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
+#EXTINF:-1 ,凤凰资讯 HD 10M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+#EXTINF:-1 ,未知国家大剧院 FHD 4M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226390/1.m3u8
+#EXTINF:-1 ,北京影视 SD 2.5M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8
+#EXTINF:-1 ,北京科教 SD 2.5M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226434/1.m3u8
+#EXTINF:-1 ,北京文艺 SD 2.5M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226435/1.m3u8
+#EXTINF:-1 ,北京新闻 FHD 8M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8
+#EXTINF:-1 ,北京文艺 FHD 8M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8
+#EXTINF:-1 ,北京影视 FHD 8M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8
+#EXTINF:-1 ,北京国际 SD 2.5M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8
+#EXTINF:-1 ,北京新闻 SD 2.5M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226512/1.m3u8
+#EXTINF:-1 ,北京青年 SD 2.5M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226513/1.m3u8
+#EXTINF:-1 ,北京生活 SD 2.5M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8
+#EXTINF:-1 ,北京财经 SD 2.5M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8
+#EXTINF:-1 ,中国教育2台 SD 2.5M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8
+#EXTINF:-1 ,海南三沙卫视 SD 1.5M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8
+#EXTINF:-1 ,湖南茶频道 FHD 8M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226548/1.m3u8
+#EXTINF:-1 ,湖南快乐垂钓 FHD 8M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8
+#EXTINF:-1 ,北京IPTV超清4K UHD 20M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
+#EXTINF:-1 ,北京IPTV淘娱乐 FHD 8M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
+#EXTINF:-1 ,北京IPTV淘电影 FHD 8M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
+#EXTINF:-1 ,北京IPTV淘剧场 FHD 8M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
+#EXTINF:-1 ,北京IPTV淘BABY FHD 8M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8
+#EXTINF:-1 ,北京IPTV萌宠 FHD 8M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8
+#EXTINF:-1 ,北京IPTV大健康 FHD 8M
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
+
+#Add Guizhou (Not Stable)
+#EXTINF:-1 tvg-id="6563" tvg-logo="http://tv.sason.xyz/logo/cctvbqkj.png" group-title="A.央视",CCTV 兵器科技 FHD
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6558" tvg-logo="http://tv.sason.xyz/logo/cctvdyjc.png" group-title="A.央视",CCTV 第一剧场 FHD
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6559" tvg-logo="http://tv.sason.xyz/logo/cctvfyjc.png" group-title="A.央视",CCTV 风云剧场 FHD
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6557" tvg-logo="http://tv.sason.xyz/logo/cctvfyyy.png" group-title="A.央视",CCTV 风云音乐 FHD
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6000" tvg-logo="http://tv.sason.xyz/logo/cctvfyzq.png" group-title="A.央视",CCTV 风云足球 FHD
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6568" tvg-logo="http://tv.sason.xyz/logo/cctvgolf.png" group-title="A.央视",CCTV 高尔夫网球 FHD
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6562" tvg-logo="http://tv.sason.xyz/logo/cctvhjjc.png" group-title="A.央视",CCTV 怀旧剧场 FHD
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6564" tvg-logo="http://tv.sason.xyz/logo/cctvnxss.png" group-title="A.央视",CCTV 女性时尚 FHD
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6560" tvg-logo="http://tv.sason.xyz/logo/cctvsjdl.png" group-title="A.央视",CCTV 世界地理 FHD
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/cctvwhjp.png" group-title="A.央视",CCTV 文化精品 FHD
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
+
+#Add Sichuan from Official Web
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
+http://m3u8.sctv.com/tvlive/SCTV0/index.m3u8
+#EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="四川",四川文化旅游
+http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
+#EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" group-title="四川",四川经济
+http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
+#EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" group-title="四川",四川新闻
+http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
+#EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="四川",四川影视文艺
+http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
+#EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="四川",四川妇女儿童
+http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
+#EXTINF:-1 tvg-id="2060" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="四川",四川科教
+http://m3u8.sctv.com/tvlive/SCTV8/index.m3u8
+#EXTINF:-1 tvg-id="2061" tvg-name="SCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv9.png" group-title="四川",四川公共乡村
+http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
