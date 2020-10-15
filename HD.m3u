@@ -971,7 +971,7 @@ http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
 http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226023/index.m3u8
 #EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="其他",四海钓鱼
 http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226025/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",浙江舟山群岛旅游
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",群岛旅游
 http://live.wifizs.cn/qdly/sd/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NHK华语视界" tvg-logo="" group-title="港澳台海外",日本NHK华语视界
@@ -990,7 +990,6 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-p.m3u
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8d/Xing_Kong_Wei_Shi.jpg" group-title="港澳台",星空卫视
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XingKongTV.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mtvlivehd.png" group-title="港澳台",MTV
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
