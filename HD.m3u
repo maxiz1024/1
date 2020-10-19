@@ -774,67 +774,67 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225789/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225915/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 ,Unknown_10520
+CNTV爱生活 SD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110245519_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_10253
+CETV4 SD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110245252_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5589
+福建东南卫视 FHD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240588_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5330
+CCTV15音乐 FHD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240329_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5329
+CCTV11戏曲 FHD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240328_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5328
+CCTV17农业农村 SD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240327_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5327
+CCTV17农业农村 FHD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240326_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5319
+贵州卫视 FHD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240318_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5318
+河北卫视 FHD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240317_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5317
+CCTV4中文国际 FHD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240316_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5312
+CNTV军事 SD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240311_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5309
+CNTV武侠剧场 SD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240308_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5305
+山东教育卫视 SD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240304_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5304
+湖南金鹰纪实 FHD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240303_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5303
+CETV1 FHD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240302_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5281
+新疆兵团卫视 SD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240280_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5279
+CNTV家庭影院 SD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5264
+iPanda熊猫频道 FHD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240263_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5261
+CCTV5体育 SD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240260_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5257
+安徽卫视 FHD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240256_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5254
+CCTV14少儿 FHD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240253_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5252
+CCTV10科教 FHD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240251_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5250
+CCTV8电视剧 FHD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240249_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5248
+CCTV6电影 FHD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240247_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5247
+CCTV5体育 FHD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240246_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5245
+CCTV2财经 FHD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240244_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5226
+IPTV收视指南 SD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240225_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5160
+福建厦门卫视 SD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240159_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5135
+浙江卫视 FHD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240134_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5132
+湖南卫视 FHD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240131_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5131
+北京卫视 FHD
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240130_1/encoder/0/playlist.m3u8?CONTENTID=
 #EXTINF:-1 ,Unknown_5130
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110240129_1/encoder/0/playlist.m3u8?CONTENTID=
