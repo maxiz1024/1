@@ -257,8 +257,6 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=85&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东影视 SD 1.5M
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=86&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东法制 SD 1.5M
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=124&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东岭南戏曲
 https://szlive.grtn.cn/lnxq/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东移动
@@ -285,30 +283,6 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=46&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东佛山公共 SD 1.5M
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=182&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东广州课堂 SD 1.5M
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=88&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东惠州综合
-https://dslive.grtn.cn/hzzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东珠海综合
-https://dslive.grtn.cn/zhzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东江门综合
-https://dslive.grtn.cn/jmzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东肇庆综合
-https://dslive.grtn.cn/zqzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东揭阳综合
-https://dslive.grtn.cn/jyzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东湛江综合
-https://dslive.grtn.cn/zjzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东潮州综合
-https://dslive.grtn.cn/czzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东汕尾综合
-https://dslive.grtn.cn/swzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东清远综合
-https://dslive.grtn.cn/qyzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东河源综合
-https://dslive.grtn.cn/hyzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东韶关综合
-https://dslive.grtn.cn/sgxwzhHD/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",CBN每日影院 FHD 4M
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视 FHD 3M
@@ -329,10 +303,6 @@ http://live4.m2oplus.nmtv.cn/6/sd/live.m3u8
 http://live4.m2oplus.nmtv.cn/7/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="内蒙古",内蒙古文体娱乐 FHD 2M
 http://live4.m2oplus.nmtv.cn/8/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="内蒙古",内蒙古蒙语1 FHD 2M
-http://live5.m2oplus.nmtv.cn/3/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="内蒙古",内蒙古蒙语2 FHD 2M
-http://live5.m2oplus.nmtv.cn/5/sd/live.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视 FHD 3.5M
 http://39.130.206.132:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南都市
@@ -373,22 +343,8 @@ http://39.135.140.226:6410/PLTV/88888888/224/3221226194/2/index.m3u8?fmt=ts2hls
 http://39.135.140.226:6410/PLTV/88888888/224/3221225615/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西",江西教育 FHD 8M
 http://39.135.140.226:6410/PLTV/88888888/224/3221226197/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西",江西吉安吉州 FHD 2.5M
-http://39.135.138.59:18890/PLTV/88888910/224/3221225679/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西",江西九江综合 FHD 4M
-http://39.135.138.59:18890/PLTV/88888910/224/3221225774/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西",江西九江公共 FHD 4M
-http://39.135.138.59:18890/PLTV/88888910/224/3221225775/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西",江西上饶1新闻综合 FHD 4M
-http://39.135.138.59:18890/PLTV/88888910/224/3221225914/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西",江西萍乡综合
-http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西",江西萍乡公共
-http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv3stream.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视 FHD 8M
 http://39.135.140.226:6410/PLTV/88888888/224/3221225487/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视",四川康巴卫视 SD 4M
-http://39.135.138.59:18890/PLTV/88888910/224/3221226207/index.m3u8
 #EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="四川",四川文化旅游 HD
 http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
 #EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" group-title="四川",四川经济 HD
@@ -427,164 +383,10 @@ http://39.135.140.226:6410/PLTV/88888888/224/3221225508/2/index.m3u8?fmt=ts2hls
 http://39.135.140.226:6410/PLTV/88888888/224/3221225581/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="河南",河南文物宝库 SD 2.5M
 http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225766/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南洛阳1新闻综合
-http://live1.lytv.com.cn:1935/live/LYTV1-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南安远1
-http://live.mudu.tv/watch/edrhv2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南中牟
-http://live.dxhmt.cn:9081/tv/10122-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南荥阳1
-http://live.dxhmt.cn:9081/tv/10182-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南新郑1
-http://live.dxhmt.cn:9081/tv/10184-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南通许
-http://live.dxhmt.cn:9081/tv/10222-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南尉氏
-http://live.dxhmt.cn:9081/tv/10223-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南兰考
-http://live.dxhmt.cn:9081/tv/10225-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南新安
-http://live.dxhmt.cn:9081/tv/10323-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南汝阳
-http://live.dxhmt.cn:9081/tv/10326-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南伊川
-http://live.dxhmt.cn:9081/tv/10329-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南宝丰
-http://live.dxhmt.cn:9081/tv/10421-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南叶县
-http://live.dxhmt.cn:9081/tv/10422-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南鲁山
-http://live.dxhmt.cn:9081/tv/10423-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南郏县
-http://live.dxhmt.cn:9081/tv/10425-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南舞钢
-http://live.dxhmt.cn:9081/tv/10481-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南汝州
-http://live.dxhmt.cn:9081/tv/10482-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南汤阴
-http://live.dxhmt.cn:9081/tv/10523-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南滑县
-http://live.dxhmt.cn:9081/tv/10526-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南内黄
-http://live.dxhmt.cn:9081/tv/10527-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南林州
-http://live.dxhmt.cn:9081/tv/10581-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南浚县
-http://live.dxhmt.cn:9081/tv/10621-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南淇县
-http://live.dxhmt.cn:9081/tv/10622-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南原阳
-http://live.dxhmt.cn:9081/tv/10725-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南封丘
-http://live.dxhmt.cn:9081/tv/10727-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南长垣
-http://live.dxhmt.cn:9081/tv/10728-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南辉县
-http://live.dxhmt.cn:9081/tv/10782-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南修武
-http://live.dxhmt.cn:9081/tv/10821-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南武陟
-http://live.dxhmt.cn:9081/tv/10823-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南温县
-http://live.dxhmt.cn:9081/tv/10825-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南泌阳
-http://live.dxhmt.cn:9081/tv/10882-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南孟州
-http://live.dxhmt.cn:9081/tv/10883-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南清丰
-http://live.dxhmt.cn:9081/tv/10922-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南未知新闻
-http://live.dxhmt.cn:9081/tv/11003-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南鄢陵
-http://live.dxhmt.cn:9081/tv/11024-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南禹州
-http://live.dxhmt.cn:9081/tv/11081-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南舞阳
-http://live.dxhmt.cn:9081/tv/11121-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南黑屏
-http://live.dxhmt.cn:9081/tv/11122-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南渑池
-http://live.dxhmt.cn:9081/tv/11221-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南义马
-http://live.dxhmt.cn:9081/tv/11281-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南灵宝
-http://live.dxhmt.cn:9081/tv/11282-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南未知
-http://live.dxhmt.cn:9081/tv/11322-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南镇平
-http://live.dxhmt.cn:9081/tv/11324-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南唐河
-http://live.dxhmt.cn:9081/tv/11328-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南桐柏
-http://live.dxhmt.cn:9081/tv/11330-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南邓州
-http://live.dxhmt.cn:9081/tv/11381-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南夏邑
-http://live.dxhmt.cn:9081/tv/11426-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南永城
-http://live.dxhmt.cn:9081/tv/11481-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南罗山
-http://live.dxhmt.cn:9081/tv/11521-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南光山
-http://live.dxhmt.cn:9081/tv/11522-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南新县
-http://live.dxhmt.cn:9081/tv/11523-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南潢川
-http://live.dxhmt.cn:9081/tv/11526-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南西华
-http://live.dxhmt.cn:9081/tv/11622-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南沈丘
-http://live.dxhmt.cn:9081/tv/11624-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南郸城
-http://live.dxhmt.cn:9081/tv/11625-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南项城
-http://live.dxhmt.cn:9081/tv/11681-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南西平
-http://live.dxhmt.cn:9081/tv/11721-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南上蔡
-http://live.dxhmt.cn:9081/tv/11722-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南平舆
-http://live.dxhmt.cn:9081/tv/11723-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南确山
-http://live.dxhmt.cn:9081/tv/11725-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南济源
-http://live.dxhmt.cn:9081/tv/19001-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南登封综合
-http://live.dxhmt.cn:9081/tv/10185-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南济源1
-http://live.dxhmt.cn:9081/tv/19001-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南新安
-http://live.dxhmt.cn:9081/tv/10323-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南鹤壁新闻综合
-http://pili-live-hls.hebitv.com/hebi/hebi.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南漯河新闻综合
-http://pili-live-rtmp.195.i2863.com/i2863-195/live_195_027737.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南南阳1新闻综合
-http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_142.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南南阳2公共
-http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_295.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南南阳3科教法制
-http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_296.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南罗山
-http://live.dxhmt.cn:9081/tv/11521-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南建安
-http://live.dxhmt.cn:9081/tv/11003-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南周口新闻综合
-http://tv.zkxww.com:1935/live1/mp4:ch1-500k/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南周口经济生活
-http://tv.zkxww.com:1935/live2/mp4:ch2-500k/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南周口科教文化
-http://tv.zkxww.com:1935/live3/mp4:ch3-500k/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南周口图文信息
-http://tv.zkxww.com:1935/live4/mp4:ch4-500k/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南周口电视剧
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/194839_XtiBg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",河南周口电影
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/80918_cr4oy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南沁阳文化旅游
-http://live.qinyangtv.com/channel2/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南沁阳新闻综合
-http://live.qinyangtv.com/channel1/sd/live.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视 FHD 3M
 http://39.135.138.59:18890/PLTV/88888910/224/3221225802/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",山东教育卫视 SD 4M
@@ -605,14 +407,6 @@ http://120.221.5.111:8089/PLTV/88888888/224/3221226075/index.m3u8
 http://120.221.5.165:8089/PLTV/88888888/224/3221225802/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",山东教育
 http://39.135.138.59:18890/PLTV/88888910/224/3221225863/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",山东淄博都市
-http://120.221.5.108:8089/PLTV/88888888/224/3221226061/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",山东淄博新闻
-http://120.221.5.113:8089/PLTV/88888888/224/3221225986/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",山东淄博公共
-http://120.221.5.111:8089/PLTV/88888888/224/3221226014/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",山东高青综合
-http://120.221.5.165:8089/PLTV/88888888/224/3221225905/index.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="IPTV少儿动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV少儿动画.png" group-title="数字",IPTV少儿动画
 http://120.221.5.113:8089/PLTV/88888888/224/3221225929/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",家庭影院
@@ -659,96 +453,6 @@ http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226021/index.m
 http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226032/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西西安教育
 http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226014/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西商洛1
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西商洛2
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226057/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西汉中1
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西汉中2
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226007/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西汉中3
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西延安1
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西延安2公共
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225699/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西延安党员教育
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226052/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西铜川1
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西铜川2
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226045/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西石泉
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226005/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西渭南新闻综合
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西宝鸡1
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226038/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西宝鸡2
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226058/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西榆林1
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西榆林2
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226039/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西神木1
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225694/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西南郑1
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225882/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西宁强1
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225881/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西勉县综合
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225880/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西勉县经济
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225946/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西柞水
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225877/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西商州有线
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225875/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西韩城综合
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225874/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西略阳1
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225870/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西周至1
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225867/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西白河1
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225864/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西白河2
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225865/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西西乡1
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225862/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西岚皋
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225861/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西宁陕
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225848/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西紫阳综合
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225845/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西眉县新闻综合
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225933/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西镇平1
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225842/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西杨凌
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225900/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西杨凌现代农业
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225901/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西蒲城1
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225913/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西华州1
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225955/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西华州2
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225956/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西潼关2人文旅游
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225957/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西未上线
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226026/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西咸阳2
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226041/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西安康1综合
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225855/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西安康2公共
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226054/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西安康教育
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226055/index.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视 FHD 8M
 http://39.135.140.226:6410/PLTV/88888888/224/3221225483/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="贵州",贵州2 SD 2.5M
@@ -803,14 +507,10 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225725/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221226200/index.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视 SD 4M
 http://39.135.138.59:18890/PLTV/88888910/224/3221225727/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",青海安多卫视 SD 2M
-http://39.135.138.59:18890/PLTV/88888910/224/3221225897/index.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视 SD 4M
 http://39.135.138.59:18890/PLTV/88888910/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视 SD 2.5M
 http://39.135.140.226:6410/PLTV/88888888/224/3221225551/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视 FHD 4M
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=121&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视 SD 4M
 http://39.135.138.59:18890/PLTV/88888910/224/3221225723/index.m3u8
 
@@ -899,8 +599,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="数字",求索纪录
 http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="数字",CHC动作电影 FHD 4M
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=119&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="数字",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="数字",CHC家庭影院
@@ -920,6 +618,7 @@ http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="IHOT爱院线" tvg-logo="" group-title="数字",IHOT爱院线
 http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
 #EXTINF:-1 tvg-id="" tvg-name="CIBN炫佳动漫" tvg-logo="" group-title="数字",CIBN炫佳动漫
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JingPin
 #EXTINF:-1 tvg-id="" tvg-name="CIBN怡家" tvg-logo="" group-title="数字",CIBN怡家
@@ -998,7 +697,7 @@ http://szdl.3322.org:8888/rtp/233.50.201.231:5140
 http://szdl.3322.org:8888/rtp/233.50.201.230:5140
 #EXTINF:-1 tvg-id="" tvg-name="高清影视华语影院" tvg-logo="" group-title="数字",高清影视华语影院
 http://szdl.3322.org:8888/rtp/233.50.201.240:5140
-#EXTINF:-1 tvg-id="" tvg-name="高清影视邵氏电影" tvg-logo="" group-title="数字",高清影视邵氏电影
+#EXTINF:-1 tvg-id="" tvg-name="高清影视邵氏电影" tvg-logo="" group-title="数字",高清影视老电影
 http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="开心影院" tvg-logo="" group-title="数字",开心影院
 http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
