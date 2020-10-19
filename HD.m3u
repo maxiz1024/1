@@ -1075,75 +1075,155 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225789/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225915/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 ,Unknown_5005
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240004_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5006
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240005_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5007
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240006_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5008
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240007_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5012
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240011_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5014
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240013_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5015
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240014_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5017
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240016_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5018
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240017_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5022
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240021_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5027
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240026_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5030
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240029_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5037
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240036_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5038
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240037_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5042
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240041_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5043
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240042_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5047
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240046_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5050
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240049_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5051
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240050_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5058
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240057_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5060
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240059_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5064
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240063_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5065
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240064_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5066
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240065_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5067
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240066_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5072
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240071_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5073
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240072_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5077
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240076_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5080
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240079_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5083
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240082_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5086
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240085_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5087
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240086_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5092
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240091_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5094
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240093_1/encoder/0/playlist.m3u8?CONTENTID=
-#EXTINF:-1 ,Unknown_5097
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240096_1/encoder/0/playlist.m3u8?CONTENTID=
 #EXTINF:-1 ,Unknown_10520
 http://61.160.152.55/live.aishang.ctlcdn.com/00000110245519_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_10253
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110245252_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5589
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240588_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5330
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240329_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5329
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240328_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5328
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240327_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5327
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240326_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5319
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240318_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5318
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240317_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5317
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240316_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5312
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240311_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5309
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240308_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5305
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240304_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5304
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240303_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5303
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240302_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5281
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240280_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5279
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5264
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240263_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5261
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240260_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5257
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240256_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5254
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240253_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5252
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240251_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5250
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240249_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5248
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240247_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5247
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240246_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5245
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240244_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5226
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240225_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5160
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240159_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5135
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240134_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5132
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240131_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5131
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240130_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5130
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240129_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5128
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5127
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240126_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5097
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240096_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5096
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240095_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5095
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240094_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5094
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240093_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5093
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240092_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5092
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240091_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5091
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240090_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5088
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240087_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5087
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240086_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5086
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240085_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5083
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240082_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5080
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240079_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5077
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240076_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5072
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240071_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5067
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240066_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5066
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240065_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5064
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240063_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5061
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240060_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5050
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240049_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5049
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240048_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5047
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240046_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5044
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240043_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5043
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240042_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5041
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240040_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5038
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240037_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5037
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240036_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5030
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240029_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5027
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240026_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5025
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240024_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5018
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240017_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5017
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240016_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5016
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240015_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5014
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240013_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5013
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240012_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5012
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240011_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5010
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240009_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5009
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240008_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5008
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240007_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5006
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240005_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5005
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240004_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5004
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240003_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 ,Unknown_5002
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240001_1/encoder/0/playlist.m3u8?CONTENTID=
